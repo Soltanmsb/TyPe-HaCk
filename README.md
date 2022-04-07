@@ -20,6 +20,7 @@
 
 شماره رو بدونه صفر بزنید و ولش کنید هز 2 ثانیه یه اسمس ارسال میکنه
 
-کانال ما 
 
-<a href="https://t.me/hacking_01_bot">
+<h2><a href="https://t.me/hacking_01">کانال ما </h2>
+
+<h2><a href="https://t.me/hacking_01_bot">ربات ما</h2>
